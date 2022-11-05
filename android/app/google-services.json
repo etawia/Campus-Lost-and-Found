@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933239943422",
+    "project_id": "tt-mini-project",
+    "storage_bucket": "tt-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933239943422:android:9ac53fa43d3ae81961f5af",
+        "android_client_info": {
+          "package_name": "com.TTProj.lostfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933239943422-in24thct6emm4mdmkhk730dtal6m32o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxASR4afghJHY7MyJ7hggMoENbLtJwPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933239943422-in24thct6emm4mdmkhk730dtal6m32o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
