@@ -1,10 +1,10 @@
 # lostfound
 
-A new Flutter application.
+Mini Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Campus LnF is a mini project that creates a uniform platform for students in universities to report msising items and items found.
 
 A few resources to get you started if this is your first Flutter project:
 
